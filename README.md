@@ -1,7 +1,5 @@
 # Skeletal Motion Interpolation
-
 # Demo Video
-
 # BezierEuler
 ![Motion Interpolation Demo](./BezierEuler-ezgif.com-video-to-gif-converter.gif)
 # slerp_quaternion
