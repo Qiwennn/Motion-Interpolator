@@ -2,18 +2,14 @@
 
 # Demo Video
 
-
+# BezierEuler
 ![Motion Interpolation Demo](./BezierEuler-ezgif.com-video-to-gif-converter.gif)
-
-
+# slerp_quaternion
 ![Motion Interpolation Demo](./ezgif.com-video-to-gif-converter.gif)
+# bezier_slerp_quaternion
+![Motion Interpolation Demo](./ezgif.com-video-to-gif-converter1.gif)
 
 
-![Motion Interpolation Demo](./ezgif.com-video-to-gif-converter copy.gif)
-
-
-<br>
-<br>
 
 # What’s Implemented
 
